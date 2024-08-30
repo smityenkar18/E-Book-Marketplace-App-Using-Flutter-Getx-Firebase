@@ -30,7 +30,8 @@ E-Book Marketplace is a Flutter-based application that provides a seamless platf
  - firebase_storage: ^11.2.7
  - image_picker: ^1.0.4
  - uuid: ^3.0.7
-   
+ 
+
 ## Colors Reference Are Used In this projects 
 
 | Color             | Hex                                                                |
