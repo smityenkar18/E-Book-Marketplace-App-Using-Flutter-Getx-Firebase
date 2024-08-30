@@ -17,7 +17,7 @@ E-Book Marketplace is a Flutter-based application that provides a seamless platf
 
 App Interface:
 1). Welcome Page :
-![image](https://github.com/user-attachments/assets/b7cb596c-5a4b-4a87-8174-cb65418eddb2)
+
 ## Packages used 
  - cupertino_icons: ^1.0.8
  - get: ^4.6.6
