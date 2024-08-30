@@ -1,3 +1,4 @@
+
 # E-Book-Marketplace-App-Using-Flutter-Getx-Firebase
 E-Book Marketplace is a Flutter-based application that provides a seamless platform for users to browse eBooks.
 ## Tech Stack
@@ -76,7 +77,8 @@ run app
 ```bash
   flutter run
 ```
-
+_____________________________________________________________________________________________
+Email: smit.yenkar18@gmail.com, Mob No: 9822086647
 
 
 
