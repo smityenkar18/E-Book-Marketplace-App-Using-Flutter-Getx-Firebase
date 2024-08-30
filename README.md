@@ -19,6 +19,11 @@ App Interface:
 1). Welcome Page :
 
 ![Welcome Page](https://github.com/user-attachments/assets/c6681fd9-1434-4933-ba60-43e5634a4414)
+
+2). Home Page :
+
+![HomePage](https://github.com/user-attachments/assets/cffd1e7f-6519-4828-aca9-e8b7ed6502a8)
+
 ## Packages used 
  - cupertino_icons: ^1.0.8
  - get: ^4.6.6
