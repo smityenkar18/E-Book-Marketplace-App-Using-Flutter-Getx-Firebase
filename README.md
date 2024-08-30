@@ -24,6 +24,10 @@ App Interface:
 
 ![HomePage](https://github.com/user-attachments/assets/cffd1e7f-6519-4828-aca9-e8b7ed6502a8)
 
+3). Profile Page :
+
+![ProfilePage](https://github.com/user-attachments/assets/b3f9b716-5524-4c50-9259-a8ed25a6ff38)
+
 ## Packages used 
  - cupertino_icons: ^1.0.8
  - get: ^4.6.6
