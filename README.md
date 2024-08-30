@@ -28,6 +28,9 @@ App Interface:
 
 ![ProfilePage](https://github.com/user-attachments/assets/b3f9b716-5524-4c50-9259-a8ed25a6ff38)
 
+4). New Book Upload Page
+![UploadBook](https://github.com/user-attachments/assets/d5e5dd20-97d6-4962-a3fe-a27d2de0440f)
+
 ## Packages used 
  - cupertino_icons: ^1.0.8
  - get: ^4.6.6
