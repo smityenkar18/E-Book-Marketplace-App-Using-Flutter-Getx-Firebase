@@ -32,6 +32,10 @@ App Interface:
 
 ![UploadBook](https://github.com/user-attachments/assets/d5e5dd20-97d6-4962-a3fe-a27d2de0440f)
 
+5). Firebase Fingerprint ( SHA ) setup
+
+![Firebase Fingerprint Setup](https://github.com/user-attachments/assets/c0eae085-f25a-4395-b479-f6803905bf33)
+
 ## Packages used 
  - cupertino_icons: ^1.0.8
  - get: ^4.6.6
